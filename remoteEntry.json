@@ -1,0 +1,139 @@
+{
+  "name": "Heart-Rate-App",
+  "shared": [
+    {
+      "packageName": "@angular/common",
+      "outFileName": "_angular_common.RHY4HHjr6D.js",
+      "requiredVersion": "^21.2.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "21.2.12"
+    },
+    {
+      "packageName": "@angular/common/http",
+      "outFileName": "_angular_common_http.ScetATVK36.js",
+      "requiredVersion": "^21.2.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "21.2.12"
+    },
+    {
+      "packageName": "@angular/core",
+      "outFileName": "_angular_core.66IG1gLJDX.js",
+      "requiredVersion": "^21.2.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "21.2.12"
+    },
+    {
+      "packageName": "@angular/core/primitives/di",
+      "outFileName": "_angular_core_primitives_di.6OqnfPwVaw.js",
+      "requiredVersion": "^21.2.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "21.2.12"
+    },
+    {
+      "packageName": "@angular/core/primitives/signals",
+      "outFileName": "_angular_core_primitives_signals.tMjCgA_YCW.js",
+      "requiredVersion": "^21.2.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "21.2.12"
+    },
+    {
+      "packageName": "@angular/forms",
+      "outFileName": "_angular_forms.WqJFTZwivd.js",
+      "requiredVersion": "^21.2.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "21.2.12"
+    },
+    {
+      "packageName": "@angular/platform-browser",
+      "outFileName": "_angular_platform_browser.kdKfOI_aCn.js",
+      "requiredVersion": "^21.2.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "21.2.12"
+    },
+    {
+      "packageName": "@angular/router",
+      "outFileName": "_angular_router.9y63H_SYsl.js",
+      "requiredVersion": "^21.2.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "21.2.12"
+    },
+    {
+      "packageName": "rxjs",
+      "outFileName": "rxjs.m3DVW-zl3m.js",
+      "requiredVersion": "~7.8.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.8.2"
+    },
+    {
+      "packageName": "rxjs/operators",
+      "outFileName": "rxjs_operators.n1ayxACQ2N.js",
+      "requiredVersion": "~7.8.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.8.2"
+    },
+    {
+      "packageName": "tslib",
+      "outFileName": "tslib.pqlPHFBOLo.js",
+      "requiredVersion": "^2.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "2.8.1"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-KNUKVBCT",
+      "outFileName": "chunk-KNUKVBCT.js"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-XLQPIWP7",
+      "outFileName": "chunk-XLQPIWP7.js"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-IGYUEDIQ",
+      "outFileName": "chunk-IGYUEDIQ.js"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-4RZLOFAI",
+      "outFileName": "chunk-4RZLOFAI.js"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-4CLCTAJ7",
+      "outFileName": "chunk-4CLCTAJ7.js"
+    }
+  ],
+  "exposes": [
+    {
+      "key": "./Component",
+      "outFileName": "Component-62J6BHQH.js"
+    }
+  ]
+}
